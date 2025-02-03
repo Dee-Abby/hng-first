@@ -1,0 +1,11 @@
+__pycache__/
+db.sqlite3
+.env
+*.pyc
+*.pyo
+*.pyd
+*.swp
+*.swo
+Pipfile
+Pipfile.lock
+
