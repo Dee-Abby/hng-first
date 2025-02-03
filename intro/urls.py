@@ -3,5 +3,5 @@ from .views import basic_info_view
 
 
 urlpatterns = [
-  path('hello/', basic_info_view, name='basic-info')
+  path('', basic_info_view, name='basic-info')
 ]
